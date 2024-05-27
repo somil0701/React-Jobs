@@ -9,7 +9,7 @@ const Navbar = () => {
     <div className='bg-indigo-700 p-5 border-b-[1px] border-indigo-500'>
       <ul className='flex justify-between items-center gap-8 px-[128px]'>
         <div className='flex justify-center items-center gap-2'>
-        <li><img src='src/assets/logo.png' className='h-10 w-10'></img></li>
+        <li><img src='https://raw.githubusercontent.com/somil0701/React-Jobs/main/src/assets/logo.png' className='h-10 w-10'></img></li>
         <li className='text text-2xl text-white font-bold'>React Jobs</li>
         </div>
         <div className='flex justify-center items-center gap-3'>

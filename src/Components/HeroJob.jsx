@@ -13,12 +13,12 @@ const HeroJob = ({deleteJob}) => {
     const onDeleteClick = async(jobId) => {
         const confirm = window.confirm("Are you sure you want to delete this listing?")
         if (!confirm ) return 
-        const res = await fetch(`/api/jobs/${jobId}`, {
-            method: 'DELETE'
-        })
-        // const res = await fetch(`https://api.npoint.io/652fbee724332ae4cafd/jobs/${jobId}`, {
+        // const res = await fetch(`/api/jobs/${jobId}`, {
         //     method: 'DELETE'
         // })
+        const res = await fetch(`https://api.npoint.io/8ba03ffe2c37b501d5d6/jobs/${jobId}`, {
+            method: 'DELETE'
+        })
         toast.success('Job Deleted Successfully!')
         navigate('/jobs')
         return 

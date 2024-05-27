@@ -43,8 +43,8 @@ const JobPage = () => {
 }
 
 const jobLoader = async({params}) => {
-    const res = await fetch(`/api/jobs/${params.id}`)
-    // const res = await fetch(`https://api.npoint.io/652fbee724332ae4cafd/jobs/${params.id}`)
+    // const res = await fetch(`/api/jobs/${params.id}`)
+    const res = await fetch(`https://api.npoint.io/8ba03ffe2c37b501d5d6/jobs/${params.id}`)
     const data = await res.json()
     return data;
 }

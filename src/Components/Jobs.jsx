@@ -15,8 +15,8 @@ const Jobs = ({ isHome }) => {
     const fetchJobs = async () => {
       try{
       // const apiUrl = isHome ? "api/jobs?_limit=6" : "api/jobs"
-      const apiUrl = "api/jobs"
-      // const apiUrl = "https://api.npoint.io/652fbee724332ae4cafd/jobs"
+      // const apiUrl = "api/jobs"
+      const apiUrl = "https://api.npoint.io/8ba03ffe2c37b501d5d6/jobs"
       const res = await fetch(apiUrl)
       const data = await res.json()
       if(isHome){
