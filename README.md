@@ -46,14 +46,14 @@ This is a React-Job management system built using React and Tailwind CSS. It all
 
 2. Start the React development server:
 
-  For Development Server
-   ```bash
-   npm run dev
-   ```
-  For Production Server
-  ```bash
-   npm run preview
-   ```
+   For Development Server
+      ```bash
+      npm run dev
+      ```
+   For Production Server
+     ```bash
+      npm run preview
+      ```
 
 3. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to access the application.
 
