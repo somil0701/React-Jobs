@@ -1,0 +1,214 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "location": "Boston, MA",
+      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Front-End Engineer (React & Redux)",
+      "type": "Full-Time",
+      "location": "Miami, FL",
+      "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
+        "contactEmail": "contact@loremipsum.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "3",
+      "title": "React.js Dev",
+      "type": "Full-Time",
+      "location": "Brooklyn, NY",
+      "description": "Are you passionate about front-end development? Join our team in vibrant Brooklyn, NY, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Dolor Cloud",
+        "description": "Dolor Cloud is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
+        "contactEmail": "contact@dolorsitamet.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "4",
+      "title": "React Front-End Developer",
+      "type": "Part-Time",
+      "location": "Phoenix, AZ",
+      "description": "Join our team as a Part-Time Front-End Developer in beautiful Phoenix, AZ. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
+        "contactEmail": "contact@adipisicingelit.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Full Stack React Developer",
+      "type": "Full-Time",
+      "location": "Atlanta, GA",
+      "description": "Exciting opportunity for a Full-Time Front-End Developer in bustling Atlanta, GA. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
+        "contactEmail": "contact@consecteturadipisicing.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "6",
+      "title": "React Native Developer",
+      "type": "Full-Time",
+      "location": "Portland, OR",
+      "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
+      "salary": "$100K - $110K",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
+        "contactEmail": "contact@ipsumlorem.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "7",
+      "title": "React Developer",
+      "type": "Full-Time",
+      "location": "San Francisco, CA",
+      "description": "We are looking for a skilled React Developer to join our team in San Francisco, CA. The ideal candidate will have a strong background in front-end development and experience with React. You will be working on cutting-edge projects in a fast-paced environment.",
+      "salary": "$120K - $130K",
+      "company": {
+        "name": "TechWave",
+        "description": "TechWave is a premier technology firm specializing in web and mobile application development. Our mission is to deliver innovative solutions that drive business success.",
+        "contactEmail": "contact@techwave.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "8",
+      "title": "React.js Developer",
+      "type": "Full-Time",
+      "location": "Seattle, WA",
+      "description": "Join our team in Seattle, WA as a React.js Developer. We are looking for a talented individual who is passionate about front-end development and eager to work on innovative projects. Competitive salary and excellent benefits package offered.",
+      "salary": "$110K - $120K",
+      "company": {
+        "name": "Innovatech",
+        "description": "Innovatech is a forward-thinking technology company specializing in software development and IT consulting. We are dedicated to fostering a culture of innovation and excellence.",
+        "contactEmail": "contact@innovatech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "9",
+      "title": "React Front-End Engineer",
+      "type": "Full-Time",
+      "location": "Chicago, IL",
+      "description": "We are seeking a talented React Front-End Engineer to join our team in Chicago, IL. The ideal candidate will have strong skills in front-end technologies and a passion for creating exceptional user experiences. Join us and be part of an innovative and dynamic team.",
+      "salary": "$100K - $110K",
+      "company": {
+        "name": "DevWorks",
+        "description": "DevWorks is a leading provider of custom software solutions and IT consulting services. Our team of experts is dedicated to helping clients achieve their business goals through innovative technology solutions.",
+        "contactEmail": "contact@devworks.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "10",
+      "title": "React.js Developer",
+      "type": "Full-Time",
+      "location": "Austin, TX",
+      "description": "Join our team in Austin, TX as a React.js Developer. We are looking for a creative and detail-oriented individual who is passionate about front-end development. This is a great opportunity to work on exciting projects in a collaborative environment.",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "ByteCode",
+        "description": "ByteCode is a leading software development company that specializes in building innovative web and mobile applications. We are committed to delivering high-quality solutions to our clients while fostering a supportive and collaborative work environment.",
+        "contactEmail": "contact@bytecode.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "11",
+      "title": "React Developer",
+      "type": "Full-Time",
+      "location": "Denver, CO",
+      "description": "We are looking for a skilled React Developer to join our team in Denver, CO. The ideal candidate will have a strong background in front-end development and experience with React. You will be working on cutting-edge projects in a fast-paced environment.",
+      "salary": "$95K - $105K",
+      "company": {
+        "name": "SkyTech",
+        "description": "SkyTech is a premier technology firm specializing in web and mobile application development. Our mission is to deliver innovative solutions that drive business success.",
+        "contactEmail": "contact@skytech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "12",
+      "title": "Senior React.js Developer",
+      "type": "Full-Time",
+      "location": "New York, NY",
+      "description": "Join our team in New York, NY as a Senior React.js Developer. We are looking for a highly skilled and experienced developer who is passionate about front-end development and eager to work on innovative projects.",
+      "salary": "$130K - $140K",
+      "company": {
+        "name": "NetSolutions",
+        "description": "NetSolutions is a leading technology company specializing in software development and IT consulting. We are dedicated to fostering a culture of innovation and excellence.",
+        "contactEmail": "contact@netsolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "13",
+      "title": "React.js Engineer",
+      "type": "Full-Time",
+      "location": "Los Angeles, CA",
+      "description": "We are seeking a talented React.js Engineer to join our team in Los Angeles, CA. The ideal candidate will have strong skills in front-end technologies and a passion for creating exceptional user experiences.",
+      "salary": "$115K - $125K",
+      "company": {
+        "name": "WebWorks",
+        "description": "WebWorks is a leading provider of custom software solutions and IT consulting services. Our team of experts is dedicated to helping clients achieve their business goals through innovative technology solutions.",
+        "contactEmail": "contact@webworks.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "14",
+      "title": "React Developer",
+      "type": "Full-Time",
+      "location": "Dallas, TX",
+      "description": "Join our team in Dallas, TX as a React Developer. We are looking for a creative and detail-oriented individual who is passionate about front-end development. This is a great opportunity to work on exciting projects in a collaborative environment.",
+      "salary": "$100K - $110K",
+      "company": {
+        "name": "CodeMasters",
+        "description": "CodeMasters is a leading software development company that specializes in building innovative web and mobile applications. We are committed to delivering high-quality solutions to our clients while fostering a supportive and collaborative work environment.",
+        "contactEmail": "contact@codemasters.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "15",
+      "title": "React.js Developer",
+      "type": "Full-Time",
+      "location": "Raleigh, NC",
+      "description": "We are seeking a talented React.js Developer to join our team in Raleigh, NC. The ideal candidate will have strong skills in front-end technologies and a passion for creating exceptional user experiences. Join us and be part of an innovative and dynamic team.",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "TechHub",
+        "description": "TechHub is a forward-thinking technology company specializing in software development and IT consulting. We are dedicated to fostering a culture of innovation and excellence.",
+        "contactEmail": "contact@techhub.com",
+        "contactPhone": "555-555-5555"
+      }
+    }
+  ]
+}
