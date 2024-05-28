@@ -52,10 +52,28 @@ This is a React-Job management system built using React and Tailwind CSS. It all
       ```
    For Production Server
      ```bash
-      npm run preview
+     npm run preview
       ```
 
 3. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to access the application.
+
+## Sample Images
+
+Home Page
+![1](https://github.com/somil0701/React-Jobs/assets/90393324/1e98783d-9cca-417b-817f-b34d7ac14dc5)
+
+Job Page
+![5](https://github.com/somil0701/React-Jobs/assets/90393324/ddbcfdce-0207-4073-be9a-55f129d8d048)
+
+Add Job Page
+![3](https://github.com/somil0701/React-Jobs/assets/90393324/41647459-051d-4ca9-9102-5a21ca695c2e)
+
+Edit Job Page
+![4](https://github.com/somil0701/React-Jobs/assets/90393324/bebc7368-0373-4469-b76d-75b3bfc0f926)
+
+Responsiveness
+![Screenshot_2024-05-28-18-08-33-610_com android chrome](https://github.com/somil0701/React-Jobs/assets/90393324/85f6086e-3273-4834-aa46-d3482e341fc7)
+
 
 ## Contributing
 
