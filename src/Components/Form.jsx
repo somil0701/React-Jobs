@@ -39,7 +39,7 @@ const Form = ({addJobSubmit}) => {
         <>
         <section className='bg-indigo-50'>
         <div className='bada-cont bg-indigo-50 py-24'>
-            <div className='form-cont py-8 mx-[400px] bg-white rounded-md shadow-md'>
+            <div className='form-cont py-8 mx-[27px] md:mx-[400px] sm:mx-[400px] bg-white rounded-md shadow-md'>
                 <form onSubmit={submitForm}>
                 <h1 className='text-center text-3xl font-semibold mb-6'>Add Job</h1>
                 <div className="jobtype px-6 mb-4 flex flex-col">
