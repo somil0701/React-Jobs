@@ -16,8 +16,8 @@ const Job = ({job, Origin}) => {
         <h2 className='text-xl font-bold mb-6'>{job.title}</h2>
         <p className='mb-5'>{description}</p>
         <p onClick={() => {setHalfDescription(value=>!value)}} className='text-indigo-500 mb-5 hover:text-indigo-600 hover:cursor-pointer'>{FullDescription ? "Less" : "More"}</p>
-        <p className='text-indigo-500 mb-5 border-b-[1px] border-gray-300 w-full py-2'>{job.salary}</p>
-        <div className='flex justify-between mb-8 w-full'>
+        <p className='text-indigo-500 mb-5 border-b-[1px] border-gray-300 w-full py-2'>{job.salary} / Year</p>
+        <div className='flex flex-col sm:flex-row md:flex-row justify-between mb-8 w-full'>
             <div className="location flex flex-row gap-1">
             <FaMapMarker className='inline text-lg mb-1 text-orange-700'/>
             <p className='text-orange-700 mb-3'>{job.location}</p>

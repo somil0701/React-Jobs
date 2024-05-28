@@ -38,7 +38,7 @@ const Jobs = ({ isHome }) => {
   }, [])
 
   return (
-    <div className='flex flex-wrap justify-center items-center py-10 bg-blue-50'>
+    <div className='flex flex-wrap justify-center items-center pb-10 sm:py-10 md:py-10 bg-blue-50'>
       {loading ? (<Spinner loading={loading}/>) : (
         <>
       {jobs.map((job) => (
